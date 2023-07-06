@@ -1,9 +1,9 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
+  "applovin_banner_id": "9bf30236f7e31c0a",
+  "applovin_interstitial_id": "c32f9d89d1a80214",
+  "applovin_native_id": "ae7bf447e0a5d49e",
   "applovin_rewarded_id": "xxxxxx",
   "max": true,
   
@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "XXX",
-  "Banner": "XXXX",
-  "Native": "xxx",
-  "Rewarded": "XXXX",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
